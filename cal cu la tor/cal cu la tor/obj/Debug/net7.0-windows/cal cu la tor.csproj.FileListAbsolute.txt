@@ -1,0 +1,17 @@
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\bin\Debug\net7.0-windows\cal cu la tor.exe
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\bin\Debug\net7.0-windows\cal cu la tor.deps.json
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\bin\Debug\net7.0-windows\cal cu la tor.runtimeconfig.json
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\bin\Debug\net7.0-windows\cal cu la tor.dll
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\bin\Debug\net7.0-windows\cal cu la tor.pdb
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.csproj.AssemblyReference.cache
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal_cu_la_tor.Form1.resources
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.csproj.GenerateResource.cache
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.AssemblyInfoInputs.cache
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.AssemblyInfo.cs
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.csproj.CoreCompileInputs.cache
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.dll
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\refint\cal cu la tor.dll
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.pdb
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\cal cu la tor.genruntimeconfig.cache
+C:\Users\Panashe\source\repos\cal cu la tor\cal cu la tor\obj\Debug\net7.0-windows\ref\cal cu la tor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cal cu la tor/1.0.0": {
+        "runtime": {
+          "cal cu la tor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cal cu la tor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
